@@ -1,0 +1,2 @@
+rootProject.name = "MobileHW4"
+include ':app'
